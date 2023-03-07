@@ -15,17 +15,17 @@
 ---
 ## Sec. 0 在開始之前 (Est. 1 Week)
 ### 😄 環境設置：
- - OS: Linux or MacOS，不建議 Windows。你也可以開一台 Host，直接從 CLI 介面開始。
+ - OS: Linux or MacOS，不建議 Windows。你也可以開一台 Host，直接從純 CLI 介面開始。
  - Database: MySQL or Mariadb or PostgreSQL
 - Webserver: Nginx(推) or Apache
 - Language: PHP or others
 ### 😀 工具安裝（自己選擇要裝什麼）
 - texteditor: vscode or vim or phpstorm
- - graphic git: sourcetree 
-- graphic database: tableplus, datagrip
+- Git GUI: sourcetree 
+- Database GUI: tableplus, datagrip
 
 ---
-## Sec. 1 (Est. 3.5~4.5 Month)
+## Sec. 1 (Est. 2.5~3.5 Month)
 > 初學者安裝完以上的東西應該已經心力交瘁，甚至重灌好幾次，但接下來才是挑戰的開始...
 > 以下四個基本上是後端工程師的必備技能
 
@@ -66,7 +66,7 @@
 PHP 的框架，藉由 Convention 讓工程師的溝通協作更順暢，也不用擔心架構。
 
 ---
-## Sec. 3 (Est. 1.5~2.5 Month)
+## Sec. 3 (Est. 2~3 Month)
 > 學完 Sec. 2，對於本地端開發應該已經熟悉了。
 > 不過後端要會怎麼把網站 Deploy 到 Server 上。
 
@@ -78,10 +78,10 @@ PHP 的框架，藉由 Convention 讓工程師的溝通協作更順暢，也不�
 首先要先知道如何把辛苦做的網站部署到 Host 上，並熟悉其原理。當然可以只看著教學一步步做，不管背後發生了什麼。但缺點就是發生了問題，也很難 debug...
 
 ### 😥 (Basic) [API Learning Path](https://github.com/JYu1999/BackendLearningPath/blob/master/API%20Learning%20Path.md)
-
+基礎的 API 以 RESTful 為主，且先不用管安全性、認證之類的東西。
 
 ---
-以下僅為草稿
+以下僅為草稿，期待後續我繼續往下走的時候更新。
 
 ---
 
