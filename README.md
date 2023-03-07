@@ -65,7 +65,7 @@
 ### 😵‍💫 [Laravel Learning Path](https://github.com/JYu1999/BackendLearningPath/blob/master/Laravel%20Learning%20Path.md)
 PHP 的框架，藉由 Convention 讓工程師的溝通協作更順暢，也不用擔心架構。
 
-### 😨 [Linux Learning Path]()
+### 😨 Linux Learning Path
 學完 Laravel  應該就具備基礎網頁製作的能力，接下來就是要把網頁上 Server。不過在上 Server 之前最好徹底熟悉一下 Linux，否則會不斷搞砸、不斷重啟、然後還不知道問題在哪...
 
 ---
