@@ -7,4 +7,3 @@
    - [What's New in Laravel 9](https://laracasts.com/series/whats-new-in-laravel-9)
    - [What's New in Laravel 10](https://laracasts.com/series/whats-new-in-laravel-10)
 7. (optional) 針對自己想要的套件、功能去作學習。這部份不急，Laravel的套件很多。
-8. 前往 [Deploy Learning Path](https://github.com/JYu1999/BackendLearningPath/blob/master/Deploy%20Learning%20Path.md)
