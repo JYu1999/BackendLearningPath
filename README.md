@@ -75,6 +75,7 @@ PHP 的框架，藉由 Convention 讓工程師的溝通協作更順暢，也不�
 ### 😨 [Linux Learning Path](https://github.com/JYu1999/BackendLearningPath/blob/master/Linux%20Learning%20Path.md)
 學完 Laravel  應該就具備基礎網頁製作的能力，接下來就是要把網頁上 Server。不過在上 Server 之前最好徹底熟悉一下 Linux，否則會不斷搞砸、不斷重啟、然後還不知道問題在哪...
 而且 Linux 也跟系統安全性息息相關，千萬不要隨意略過。
+在學 Linux 的同時，也一併把 vim 學起來吧～
 
 ### 🥺 [Deploy Learning Path](https://github.com/JYu1999/BackendLearningPath/blob/master/Deploy%20Learning%20Path.md)
 再來要先知道如何把辛苦做的網站部署到 Host 上，並熟悉其原理。當然可以只看著教學一步步做，不管背後發生了什麼。但缺點就是發生了問題，也很難 debug...
@@ -82,18 +83,19 @@ PHP 的框架，藉由 Convention 讓工程師的溝通協作更順暢，也不�
 ### 😥 (Basic) [API Learning Path](https://github.com/JYu1999/BackendLearningPath/blob/master/API%20Learning%20Path.md)
 基礎的 API 以 RESTful 為主，且先不用管安全性、認證之類的東西。
 
----
-以下僅為草稿，期待後續我繼續往下走的時候更新。
 
----
 
 
 ## Sec. 4
 
-### Docker Learning Path
+### 🥶[Docker Learning Path](https://github.com/JYu1999/BackendLearningPath/blob/master/Docker%20Learning%20Path.md)
 Docker 是一個可以幫助個人和團隊省下不少時間的工具，簡單來說就是將 application 和其所有的相依元件打包。
 不僅很多公司會要求應徵者有使用 docker 的經驗，在 [Stack Overflow 2022 的問卷調查](https://survey.stackoverflow.co/2022/#technology-worked-with-vs-want-to-work-with)中，docker 和 npm 可以說是在 other tool 類別裡面稱霸了。
 
+---
+以下僅為草稿，期待後續我繼續往下走的時候更新。
+
+---
 
 ### Testing Learning Path
 
