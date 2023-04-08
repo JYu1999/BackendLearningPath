@@ -24,6 +24,7 @@
 - Git GUI: sourcetree 
 - Database GUI: tableplus, datagrip
 
+
 ---
 ## Sec. 1 (Est. 2.5~3.5 Month)
 > 初學者安裝完以上的東西應該已經心力交瘁，甚至重灌好幾次，但接下來才是挑戰的開始...
@@ -90,6 +91,9 @@ PHP 的框架，藉由 Convention 讓工程師的溝通協作更順暢，也不�
 ## Sec. 4
 
 ### Docker Learning Path
+Docker 是一個可以幫助個人和團隊省下不少時間的工具，簡單來說就是將 application 和其所有的相依元件打包。
+不僅很多公司會要求應徵者有使用 docker 的經驗，在 [Stack Overflow 2022 的問卷調查](https://survey.stackoverflow.co/2022/#technology-worked-with-vs-want-to-work-with)中，docker 和 npm 可以說是在 other tool 類別裡面稱霸了。
+
 
 ### Testing Learning Path
 
