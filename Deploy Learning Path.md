@@ -19,4 +19,4 @@
 7. Install and deploy Multiple Laravel Projects
    - [How to Install and Configure Laravel 8 with Nginx (LEMP) on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-laravel-with-lemp-on-ubuntu-18-04)
    - [How to Deploy A Laravel App With Nginx on Ubuntu(LEMP)](https://www.iankumu.com/blog/how-to-deploy-a-laravel-app-on-lemp-stack/)
-8. (optional) 研究關於 Deploy 的其他內容，你可以去研究 cloud host 的服務（如 Laravel 怎麼上傳檔案到 AWS s3），或是研究實務上架站的方式（https, DNS...）。
+8. (optional) 研究關於 Deploy 的其他內容，例如 cloud host 的服務（e.g. Laravel 怎麼上傳檔案到 AWS s3）、實務上架站的方式（https, DNS...）、前後端分離...之類的。

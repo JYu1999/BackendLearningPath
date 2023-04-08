@@ -1,0 +1,4 @@
+1. [Docker Tutorial for Beginners [FULL COURSE in 3 Hours]](https://youtu.be/3c-iBn73dDE): 目前在 youtube 上觀看數量最多的 docker 影片，真滴不錯。
+2. [Laracast: The Docker Tutorial](https://laracasts.com/series/the-docker-tutorial): 這系列影片會教你怎麼從無到有，建一個 Laravel 的 container 環境。完成之後，電腦裡面甚至不用裝 MNMP!
+3. (optional) [Book: 跟著 Docker 隊長，修練 22天就精通 - 搭配 20小時作者線上教學，無縫接軌 Microservices、Cloud-native、Serverless、DevOps 開發架構](https://www.tenlong.com.tw/products/9789863126799?list_name=srh)：我自己是有再額外看書，但這個看個人。如果有想要再深入了解可以考慮。
+4. (optional) 研究 [Laravel Sail](https://laravel.com/docs/10.x/sail): 正如其官網上所說，Laravel Sail 是一個 "light-weight command-line interface for interacting with Laravel's default Docker development environment"，可以讓開發者在很短的時間內建立起一個 laravel 的開發環境。
