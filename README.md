@@ -1,16 +1,16 @@
 # JYu's Backend Learning Path
 
-- 這是我自己學習後端的路程，和使用到的一些資源。
+- 這是我自己學習後端的路程，和使用到的一些資源，以工具為主。
 
 - 語言/框架以 PHP/Laravel 為主，如果你是學其他語言的，自己代換即可。差異不大。
 
-- 在某些檔案中，我會註明最好先學什麼，再繼續進行下去。但也沒有絕對的先後順序，端看個人學習狀態。
+- 在某些檔案中，我會註明最好先學什麼，再繼續進行下去。但也**沒有絕對的先後順序**，端看個人學習狀態。
 
 - 每個 Section 後面我會標完全零經驗者大概要花多久完成該 Section。
 
 - 我提供的資源（網站/課程/影片/書籍），不一定適用於所有人。建議大家從我提供的資源中，找出一些關鍵字，去搜尋對自己最有幫助的資源。
 
-- 完成到 Sec. 5 去找工作「可能」會比較穩，但還是依公司型態和個人背景而定，沒有絕對。
+- 完成到 Sec. 4 可以嘗試求職，完成 Sec. 5 去找工作「可能」會比較穩，但還是依公司型態和個人背景而定，沒有絕對。
 
 ---
 ## Sec. 0 在開始之前 (Est. 1 Week)
@@ -20,15 +20,23 @@
 - Webserver: Nginx(推) or Apache
 - Language: PHP or others
 ### 😀 工具安裝（自己選擇要裝什麼）
-- texteditor: vscode or vim or phpstorm
+- texteditor: vscode or Neovim or phpstorm
+    
+    如果進框架前，用什麼其實都可以。進框架後建議用 phpStorm。
 - Git GUI: sourcetree 
+
+    這個不一定要裝，看個人。
 - Database GUI: tableplus, datagrip
+
+    這個也不一定要裝，但裝了之後，看 table 會比較好看一點。
+
+
 
 
 ---
 ## Sec. 1 (Est. 2.5~3.5 Month)
 > 初學者安裝完以上的東西應該已經心力交瘁，甚至重灌好幾次，但接下來才是挑戰的開始...
-> 以下四個基本上是後端工程師的必備技能
+> 以下四個基本上是後端工程師的必備技能。
 
 ### 🤨 [PHP Learning Path](https://github.com/JYu1999/BackendLearningPath/blob/master/PHP%20Learning%20Path.md)
 用來寫後端的語言，沒什麼好說的
@@ -83,7 +91,13 @@ PHP 的框架，藉由 Convention 讓工程師的溝通協作更順暢，也不�
 ### 😥 (Basic) [API Learning Path](https://github.com/JYu1999/BackendLearningPath/blob/master/API%20Learning%20Path.md)
 基礎的 API 以 RESTful 為主，且先不用管安全性、認證之類的東西。
 
+### Stop to Practice!
+到這邊可以嘗試去買一個網域，連接到自己的 cloud host，並在 cloud host 上部署專案，讓別人可以 call api 取得資料。
+你可能需要了解 Postman 使用、SSL、DNS、前後端分離等等概念。也需要了解一些常用的功能，包含但不限於上傳檔案、Validation、Cache 機制等等。
 
+### 嘗試求職
+如果你的目標是放在 junior 後端工程師的話，可能要考慮一下是否要繼續往下學，還是要先找工作了。
+就我的求職經驗來說，下面的內容對於 junior 後端工程師來說，是較少遇到的。
 
 
 ## Sec. 4
