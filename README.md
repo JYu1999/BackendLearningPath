@@ -22,7 +22,7 @@
 ### 😀 工具安裝（自己選擇要裝什麼）
 - texteditor: vscode or Neovim or phpstorm
     
-    如果進框架前，用什麼其實都可以。進框架後建議用 phpStorm。
+    進框架前，用什麼都可以。進框架後建議用 phpStorm。
 - Git GUI: sourcetree 
 
     這個不一定要裝，看個人。
@@ -45,9 +45,10 @@
 用來版本控制，每個工程師都該會
 
 ### 😶 HTML & CSS Learning Path
-後端基本上還是要會「看得懂」前端
+後端基本上還是要會「看得懂」前端。
 網路上相關資源非常多，這裡就不列出資源。
 要特別注意的是，後端不用特別在意切版，只要對 HTML tag, attribute, flexbox, grid 等稍微有概念即可。
+如果有意想要找全端工作的話，這部份可能就要略為多花一些時間了。
 
 ### 😯 (Basic) [Database Learning Path](https://github.com/JYu1999/BackendLearningPath/blob/master/Database%20Learning%20Path.md)
 跟資料庫互動也是一定要會的，不過這裡只單純指 sql 語法，還不用去優化效率和容量。
@@ -70,7 +71,7 @@
 
 ### 🫤 Javascript Learning Path
 主要集中在 DOM 的部分，這裡大概知道 DOM 會怎麼跟 HTML  做互動即可。沒空的話，詳細的 JS 概念（e.g. hoisting, callstack)可以不用了解。
-有空的話當然就去把 JS  概念補一補～
+有空的話當然就去把 JS 概念補一補～
 
 ### 😵‍💫 [Laravel Learning Path](https://github.com/JYu1999/BackendLearningPath/blob/master/Laravel%20Learning%20Path.md)
 PHP 的框架，藉由 Convention 讓工程師的溝通協作更順暢，也不用擔心架構。
@@ -95,9 +96,12 @@ PHP 的框架，藉由 Convention 讓工程師的溝通協作更順暢，也不�
 到這邊可以嘗試去買一個網域，連接到自己的 cloud host，並在 cloud host 上部署專案，讓別人可以 call api 取得資料。
 你可能需要了解 Postman 使用、SSL、DNS、前後端分離等等概念。也需要了解一些常用的功能，包含但不限於上傳檔案、Validation、Cache 機制等等。
 
-### 嘗試求職
-如果你的目標是放在 junior 後端工程師的話，可能要考慮一下是否要繼續往下學，還是要先找工作了。
-就我的求職經驗來說，下面的內容對於 junior 後端工程師來說，是較少遇到的。
+### 嘗試求職 & 想想未來方向
+如果你的目標是放在 junior 後端工程師的話，可能要考慮一下是否要繼續往下學，還是要先找工作了。就我的求職經驗來說，下面的內容對於 junior 後端工程師來說，是較少遇到的。
+
+如果要繼續學習的話，可能要思考一下自己想去的公司種類或職業別是什麼。如果公司以接案為主的話，你可能需要多熟悉網頁框架（Laravel, Django, RoR...）。如果是產品公司的話，DevOps、架構師、後端工程師...都是潛在的發展方向。
+
+建議是花多一些時間在思考這個，不然之後學習會愈學愈迷惘。
 
 
 ## Sec. 4
